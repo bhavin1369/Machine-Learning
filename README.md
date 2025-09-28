@@ -4,7 +4,7 @@
 ![Libraries](https://img.shields.io/badge/NumPy%20|%20Pandas%20|%20Matplotlib%20|%20Scikit--Learn-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-Welcome to **Machine Learning ** repository! This repo contains hands-on implementations of popular ML algorithms with Python. Whether you’re learning or building projects, these scripts will help you understand key concepts in ML and AI.
+Welcome to *Machine Learning* repository! This repo contains hands-on implementations of popular ML algorithms with Python. Whether you’re learning or building projects, these scripts will help you understand key concepts in ML and AI.
 
 ---
 
