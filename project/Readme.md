@@ -44,3 +44,14 @@ Random Forest Regressor showed the best performance based on evaluation metrics.
 ## How to Run
 1. Place `data.csv` in the same directory as the Python file
 2. Install required libraries:
+3. Run the script:
+
+## Output
+- RMSE and R² scores printed in console
+- Bar graph comparing RMSE of models
+- Scatter plot of Actual vs Predicted S11 values
+
+## Author
+Bhavin Muchhala & Viraj Vaghasiya
+B.Tech – Information & Communication Technology
+
